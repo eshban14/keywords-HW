@@ -1,0 +1,31 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/road.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#keycar{
+    margin-top: 25%;
+    background: transparent;
+    float: left;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#secondcar{
+    margin-top: 31%;
+    background: transparent;
+    float: left;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.play{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
